@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LhossaineRS7
-- 👀 I’m interested in Devops enginneing , cloud , full-stack Java/react -
-- 🌱 I’m currently learning spring boot and AWS
+- 👀 I’m interested in data enginneing , cloud , devops -
+- 🌱 I’m currently data engineering 
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
